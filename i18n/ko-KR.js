@@ -57,7 +57,7 @@ export default {
   },
   resources: {
     themes: {
-      get_for_it: '{price} 가격으로 얻기',
+      get_for_it: '{price}에 구매하기',
       video_course: '시작하기'
     }
   },
